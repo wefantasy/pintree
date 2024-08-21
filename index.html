@@ -596,9 +596,7 @@
 
         // Separate folders and links
         const folders = data.filter((item) => item.type === "folder");
-        // 按创建时间递增排序
-        const links = data.filter((item) => item.type === "link").sort((a, b) => b.created > a.created);
-        // const links = data.filter((item) => item.type === "link");
+        const links = data.filter((item) => item.type === "link");
 
         if (folders.length === 0 && links.length === 0) {
           showNoResultsMessage();
