@@ -235,6 +235,13 @@
                     "url": "https://www.topgoer.com/"
                   },
                   {
+                    "title": "Go语言高级编程",
+                    "desc": "Go语言高级编程",
+                    "icon": null,
+                    "type": "link",
+                    "url": "https://chai2010.cn/advanced-go-programming-book/"
+                  },
+                  {
                     "title": "golang资料补给包",
                     "desc": "",
                     "icon": "https://github.com/favicon.ico",
@@ -296,6 +303,13 @@
                     "icon": "https://kuboard.cn/favicon.png",
                     "type": "link",
                     "url": "https://kuboard.cn/learning/"
+                  },
+                  {
+                    "title": "Auth Wiki",
+                    "desc": "认证、授权、身份和访问管理（IAM）相关的关键术语的明确定义",
+                    "icon": "https://auth.wiki/_astro/cover.BnyXQmpl.png",
+                    "type": "link",
+                    "url": "https://auth.wiki/zh"
                   },
                   {
                     "title": "Docker教程",
@@ -377,6 +391,27 @@
                 ]
               },
               {
+                "title": "前端开发",
+                "icon": null,
+                "type": "folder",
+                "children": [
+                  {
+                    "title": "Tailwind Awesome",
+                    "desc": "Tailwind常见布局、组件",
+                    "icon": "",
+                    "type": "link",
+                    "url": "https://www.tailwindawesome.com/"
+                  },
+                  {
+                    "title": "svelte themes",
+                    "desc": "Svelte 组件",
+                    "icon": "",
+                    "type": "link",
+                    "url": "https://sveltethemes.dev/"
+                  }
+                ]
+              },
+              {
                 "title": "相关工具",
                 "icon": null,
                 "type": "folder",
@@ -387,6 +422,20 @@
                     "icon": "https://www.toptal.com/developers/gitignore/img/lightning.svg",
                     "type": "link",
                     "url": "https://www.toptal.com/developers/gitignore"
+                  },
+                  {
+                    "title": "开源许可证选择器",
+                    "desc": "开源代码许可证选择、对比工具",
+                    "icon": "https://open-source-license-chooser.toolsnav.top/favicon.ico",
+                    "type": "link",
+                    "url": "https://open-source-license-chooser.toolsnav.top/zh/"
+                  },
+                  {
+                    "title": "drawdb",
+                    "desc": "开源代码许可证选择、对比工具",
+                    "icon": "DB;SQL;免费的在线数据库建模工具和 SQL 生成器。",
+                    "type": "link",
+                    "url": "https://github.com/drawdb-io/drawdb"
                   },
                   {
                     "title": "编程应用库排名",
@@ -440,8 +489,7 @@
                     "url": "https://www.digitalocean.com/community/tools/nginx#?",
                     "urls": {
                       "Github": "https://github.com/digitalocean/nginxconfig.io"
-                    },
-                    "top": false
+                    }
                   },
                   {
                     "title": "Google Play APK下载",
@@ -527,6 +575,20 @@
                 "icon": null,
                 "type": "folder",
                 "children": [
+                  {
+                    "title": "Artificial Analysis",
+                    "desc": "AI;热门人工智能模型测试、分析、对比、排名",
+                    "icon": "",
+                    "type": "link",
+                    "url": "https://artificialanalysis.ai/"
+                  },
+                  {
+                    "title": "Chatbot Arena",
+                    "desc": "AI;通过人类偏好测试、分析、对比、排名人工智能的开源平台",
+                    "icon": "",
+                    "type": "link",
+                    "url": "https://lmarena.ai/"
+                  },
                   {
                     "title": "哩卟哩卟",
                     "desc": "原创AI模型分享社区",
@@ -866,6 +928,20 @@
                 "url": "https://www.geogebra.org/download"
               },
               {
+                "title": "名言通",
+                "desc": "名言警句",
+                "icon": "https://www.mingyantong.com/favicon.ico",
+                "type": "link",
+                "url": "https://www.mingyantong.com/"
+              }
+            ]
+          },
+          {
+            "title": "无聊论坛",
+            "icon": null,
+            "type": "folder",
+            "children": [
+              {
                 "title": "一亩三分地社区",
                 "desc": "留学生论坛",
                 "icon": "https://www.1point3acres.com/bbs/favicon.ico",
@@ -873,18 +949,39 @@
                 "url": "https://www.1point3acres.com/"
               },
               {
-                "title": "名言通",
-                "desc": "名言警句",
-                "icon": "https://www.mingyantong.com/favicon.ico",
-                "type": "link",
-                "url": "https://www.mingyantong.com/"
-              },
-              {
                 "title": "职级对标",
                 "desc": "薪酬公开，提高职场透明度",
                 "icon": "https://duibiao.info/favicon.ico",
                 "type": "link",
                 "url": "https://duibiao.info/"
+              },
+              {
+                "title": "NGA玩家社区",
+                "desc": "NGA游戏玩家社区是国内知名的玩家交流平台,以暴雪游戏专题站为起点,现已囊括魔兽世界,英雄联盟,炉石传说,风暴英雄,暗黑破坏神等游戏讨论,各类热门单机/主机/网络/手机游戏版块,以及游戏界热点讨论",
+                "icon": "",
+                "type": "link",
+                "url": "https://bbs.nga.cn/"
+              },
+              {
+                "title": "JIKE社区",
+                "desc": "一群小伙伴共同分享各种优惠消息,福利活动,免费资源的和谐社区",
+                "icon": "https://jike.info/assets/images/touch/96.png",
+                "type": "link",
+                "url": "https://jike.info/"
+              },
+              {
+                "title": "程序员考公指南",
+                "desc": "互联网首份程序员考公指南",
+                "icon": "https://github.com/favicon.ico",
+                "type": "link",
+                "url": "https://github.com/coder2gwy/coder2gwy"
+              },
+              {
+                "title": "Hacker News",
+                "desc": "最新技术资讯",
+                "icon": "https://news.ycombinator.com/y18.svg",
+                "type": "link",
+                "url": "https://news.ycombinator.com/news"
               }
             ]
           }
@@ -940,6 +1037,48 @@
                 "icon": "https://www.pushbullet.com/favicon.ico",
                 "type": "link",
                 "url": "https://www.pushbullet.com/"
+              },
+              {
+                "title": "Deku SMS",
+                "desc": "SMS转发工具，能通过HTTPS、SMTP、FTP等协议将短信转发至其它设备",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/deku-messaging/Deku-SMS-Android"
+              },
+              {
+                "title": "mind map",
+                "desc": "一个简单&强大的 Web 思维导图",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/wanglin2/mind-map"
+              },
+              {
+                "title": "OpenStreetMap",
+                "desc": "是一个开源世界地图，由全世界人共同维护，可依据开放许可协议自由使用。",
+                "icon": "https://www.openstreetmap.org/assets/favicon-194x194-79d3fb0152c735866e64b1d7535d504483cd13c2fad0131a6142bd9629d30de2.png",
+                "type": "link",
+                "url": "https://www.openstreetmap.org"
+              },
+              {
+                "title": "PrivateBin",
+                "desc": "PrivateBin 是一个极简、开源的在线粘贴板分享服务，服务器对粘贴的数据一无所知。",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/PrivateBin/PrivateBin"
+              },
+              {
+                "title": "FreshRSS",
+                "desc": "RSS信息聚合、阅读器",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/FreshRSS/FreshRSS"
+              },
+              {
+                "title": "kopia",
+                "desc": "开源文件备份恢复工具，可以为本地任意数量文件夹建立快照，可以定时保存文件夹不同时刻的状态",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/kopia/kopia"
               }
             ]
           },
@@ -989,6 +1128,27 @@
                 "icon": "https://filezilla-project.org/favicon.ico",
                 "type": "link",
                 "url": "https://filezilla-project.org/"
+              },
+              {
+                "title": "toolin",
+                "desc": "Golang 结构体转换工具、SQL 转 Go 结构体",
+                "icon": "",
+                "type": "link",
+                "url": "https://toolin.cn/sql2go"
+              },
+              {
+                "title": "Wakapi",
+                "desc": "WakaTime 的开源版本，统计开发者的工作时间、工作效率和工作分配情况",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/muety/wakapi"
+              },
+              {
+                "title": "GrapesJS",
+                "desc": "开源低代码服务",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/GrapesJS/grapesjs"
               }
             ]
           },
@@ -1057,11 +1217,53 @@
                 "url": "https://github.com/kopia/kopia"
               },
               {
+                "title": "影梭",
+                "desc": "用于 Android 8.0+ 的无需 ROOT 权限的虚拟定位 APP",
+                "icon": "https://github.com/favicon.ico",
+                "type": "link",
+                "url": "https://github.com/ZCShou/GoGoGo"
+              },
+              {
                 "title": "Macro Recorder",
                 "desc": "Windows, Mac\n自动化，键鼠录制器",
                 "icon": "https://www.macrorecorder.com/site/assets/files/1226/mrc_favicon.57x57.png",
                 "type": "link",
                 "url": "https://www.macrorecorder.com/"
+              },
+              {
+                "title": "Online Mic Test",
+                "desc": "麦克风、摄像头、声音、键盘、鼠标、游戏手柄测试；录音机、音频生成、调谐器工具",
+                "icon": "",
+                "type": "link",
+                "url": "https://www.onlinemictest.com/zh/"
+              },
+              {
+                "title": "UptimeFlare",
+                "desc": "基于Cloudflare的服务状态监控工具",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/lyc8503/UptimeFlare"
+              },
+              {
+                "title": "Huginn",
+                "desc": "数据监控和通知工具",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/huginn/huginn"
+              },
+              {
+                "title": "Ventoy",
+                "desc": "U盘启动盘制作工具",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/ventoy/Ventoy"
+              },
+              {
+                "title": "Aegis",
+                "desc": "支持 HOTP 和 TOTP 的免费、安全和开源2FA 应用程序",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/beemdevelopment/Aegis"
               }
             ]
           },
@@ -1076,6 +1278,13 @@
                 "icon": "https://www.cheatengine.org/favicon.ico",
                 "type": "link",
                 "url": "https://www.cheatengine.org/"
+              },
+              {
+                "title": "umami",
+                "desc": "网页访客计数器、UV",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/umami-software/umami"
               }
             ]
           },
@@ -1086,7 +1295,7 @@
             "children": []
           },
           {
-            "title": "声画影音",
+            "title": "影音娱乐",
             "icon": null,
             "type": "folder",
             "children": [
@@ -1124,6 +1333,41 @@
                 "icon": "https://github.com/favicon.ico",
                 "type": "link",
                 "url": "https://github.com/gedoor/legado"
+              },
+              {
+                "title": "阅读",
+                "desc": "Linux、服务器版\n可以自定义来源阅读小说的工具",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/hectorqin/reader"
+              },
+              {
+                "title": "Kazumi",
+                "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/Predidit/Kazumi"
+              },
+              {
+                "title": "m3u8下载",
+                "desc": "TS、MP4、M3U8资源在线下载",
+                "icon": "",
+                "type": "link",
+                "url": "https://m3u8.dev/"
+              },
+              {
+                "title": "trackerslist",
+                "desc": "推荐 BT tracker 列表",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/ngosang/trackerslist"
+              },
+              {
+                "title": "TrackersListCollection",
+                "desc": "全网热门 BitTorrent Tracker 列表",
+                "icon": "",
+                "type": "link",
+                "url": "https://github.com/XIU2/TrackersListCollection"
               }
             ]
           },
@@ -1426,13 +1670,6 @@
                 "url": "https://btdig.com/index.htm"
               },
               {
-                "title": "BTDigg",
-                "desc": "免费BT内容搜索引擎，有一些妙用",
-                "icon": "https://btdig.com/favicon.ico",
-                "type": "link",
-                "url": "https://btdig.com/index.htm"
-              },
-              {
                 "title": "BT下载探测",
                 "desc": "我知道你下载了什么",
                 "icon": null,
@@ -1445,6 +1682,13 @@
                 "icon": "https://www.itdog.cn/favicon.ico",
                 "type": "link",
                 "url": "https://www.itdog.cn/"
+              },
+              {
+                "title": "虚拟浏览器",
+                "desc": "browser; 在线安全访问被屏蔽或有风险的网站，不用担心病毒或木马",
+                "icon": "https://browser.lol/img/logo.svg",
+                "type": "link",
+                "url": "https://browser.lol/"
               },
               {
                 "title": "Google Console",
@@ -1573,6 +1817,13 @@
                 "icon": "https://my.freenom.com/favicon.ico",
                 "type": "link",
                 "url": "https://my.freenom.com/clientarea.php"
+              },
+              {
+                "title": "cloudcone",
+                "desc": "实惠主机ECS",
+                "icon": "https://app.cloudcone.com/assets/img/favicon.png",
+                "type": "link",
+                "url": "https://app.cloudcone.com/cloud"
               }
             ]
           }
